@@ -2,5 +2,5 @@
 name = "colorize"
 version = "1.0.0"
 edition = "2024"
-
-[dependencies]
+license-file = "LICENSE"
+readme = "README.md"
